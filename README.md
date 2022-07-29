@@ -35,3 +35,5 @@
   </a>
   
 </div>
+
+![snake gif](https://github.com/alexandredev45/alexandredev45/blob/output/github-contribution-grid-snake.svg)
